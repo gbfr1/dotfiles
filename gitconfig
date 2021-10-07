@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gaetanbouchand@hotmail.com
+	name = Gaetan Bouchand
